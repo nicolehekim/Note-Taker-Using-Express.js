@@ -1,5 +1,8 @@
 # Note-Taker-Using-Express.js
 
+<img width="1440" alt="Screenshot 2024-05-06 at 10 39 05 PM" src="https://github.com/nicolehekim/Note-Taker-Using-Express.js/assets/140788090/e090930c-8591-42f5-8174-2293267963f2">
+
+
 ## User Story
 
 ```
